@@ -1,0 +1,5 @@
+steps\testeApiSteps.class
+pages\BuscaDiretorFilme.class
+steps\BuscaDiretorFilmeSteps.class
+runner\RunnerTest.class
+support\DriverQA.class
